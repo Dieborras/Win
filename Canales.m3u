@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR blue][I]- CANALES DE TV-[/COLOR] [/I] 
+
+#EXTINF:-1 group-title=»DEPORTES», WIN SPORTS +
+http://jactv.xyz/m3u8/a/win-plus.php
